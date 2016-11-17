@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>Stanford Open Credit Project by stanford-ocp</title>
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="inner">
+
+        <header>
+          <h1>Stanford Open Credit Project</h1>
+          <h2></h2>
+        </header>
+
+
+        <hr>
+
+        <section id="main_content">
+          <h3>
+<a id="mission" class="anchor" href="#mission" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Mission</h3>
+
+<p>The mission of Stanford Open Credit Project (SOCP) is to accelerate the dissemination of open credit data and technologies in order to understand and prevent credit crises.</p>
+
+<h3>
+<a id="members" class="anchor" href="#members" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Members</h3>
+
+<p>Kay Giesecke, Stanford University, <a href="mailto:giesecke@stanford.edu">giesecke@stanford.edu</a> (co-Chair)</p>
+<p></p>Kapil Jain, Stanford University, <a href="mailto:kkjain@stanford.edu">kkjain@stanford.edu</a> (co-Chair)</p>
+<p></p>Krishna Kumar, Omega Advisors, <a href="mailto:kkumar@omega-advisors.com">kkumar@omega-advisors.com</a></p>
+
+<h3>
+<a id="open-source-technology" class="anchor" href="#open-source-technology" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Open Source Technology</h3>
+
+<p><a href="http://github.com/stanford-ocp">http://github.com/stanford-ocp</a></p>
+
+<h3>
+<a id="contributors" class="anchor" href="#contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributors</h3>
+
+<p>Please email us to inquire about membership or contributing to SOCP.</p>
+
+<h3>
+<a id="sponsors" class="anchor" href="#sponsors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Sponsors</h3>
+
+<p>We appreciate the generous support of: <a href="http://web.stanford.edu/group/cfra/cgi-bin/wordpress/">the Stanford Center for Financial and Risk Analytics</a>, <a href="http://icme.stanford.edu/">the Stanford Institute for Computational and Mathematical Engineering </a></p>
+        </section>
+
+        <footer>
+       </footer>
+
+        
+      </div>
+    </div>
+  </body>
+</html>
